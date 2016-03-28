@@ -1,2 +1,2 @@
-# Hello-World is new 
+# Hello-World
 Hello world repository
